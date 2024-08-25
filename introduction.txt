@@ -1,0 +1,9 @@
+Hello everyone, my name is Nguyen and I'm from Ho Chi Minh City, Vietnam.
+In my project, I will create a Flashcard database.
+
+My github username: MrHighlandCN
+My edx username: MrHighland
+
+
+FLASHCARD DATABASE
+A database project for user to study new things using flashcard.
